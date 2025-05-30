@@ -15,7 +15,7 @@ Aquest projecte aplica un sistema de **substitució polialfabètica** mitjançan
 
 ## 📚 Crèdits
 
-Pràctica basada en el projecte de simulació del mòdul **M03UF3 - Ciberseguretat**, amb objectius docents de:
+Pràctica realitzada per:
 
 - Lluc Omella
 - Andualem
@@ -25,7 +25,7 @@ Pràctica basada en el projecte de simulació del mòdul **M03UF3 - Ciberseguret
 ## 📁 Repositori
 
 El repositori conté:
-- Tot el codi font (.cpp, .h)
+- Tot el codi font
 - Fitxers de rotor
 - Missatge d'exemple
 - README.md
